@@ -1,0 +1,13 @@
+
+.env
+.env.*
+!.env.example
+
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+
+.spotify-tokens.json
